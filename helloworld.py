@@ -1,6 +1,6 @@
 import time
 
 if __name__ == '__main__':
-	print('hi\n')
+	print('hi commit\n')
 	time.sleep(1)
-	print('bye\n')
+	print('bye changed\n')
