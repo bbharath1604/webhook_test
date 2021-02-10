@@ -5,4 +5,4 @@ if __name__ == '__main__':
 	time.sleep(1)
 	print('bye webhook trigger worked :) \n')
 	print(':) :)')
-	print('new path should be added to Build path --> workspace/newpath')
+	print('new path should be added to Build path ---> workspace/newpath')
